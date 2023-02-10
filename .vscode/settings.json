@@ -1,0 +1,12 @@
+{
+    "[rust]": {
+        "editor.formatOnSave": true,
+        "editor.formatOnPaste": true
+    },
+    "rust-client.engine": "rust-analyzer",
+    "rust-client.autoStartRls": false,
+    "rust-analyzer.inlayHints.renderColons": false,
+    "rust-analyzer.callInfo.full": false,
+    "rust-analyzer.inlayHints.closingBraceHints.enable": false,
+    "rust-analyzer.check.command": "clippy",
+}
