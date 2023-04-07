@@ -66,6 +66,8 @@ Everything related to dates and times
 
 ## Helpful Tips and Methods
 
+[Rust Cheat Sheet](https://upsuper.github.io/rust-cheatsheet/?dark,large)
+
 ### Option<Result> to Result<Option>
 Use `transpose()`
 ```
